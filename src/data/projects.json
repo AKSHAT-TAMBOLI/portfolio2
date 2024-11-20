@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A (Amozon Clone)",
+    "imageSrc": "projects/amazon.png",
+    "description": "This is a project made up of only html, css only .This is my first project to grip on those languages",
+    "skills": ["Html", "Css", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B (Netflix clone)",
+    "imageSrc": "projects/netflix.png",
+    "description": "This is a project made to learn the responsiveness .This is my first responsive website .",  
+    "skills": ["Html" ,"Css", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C (Spotify Clone)",
+    "imageSrc": "projects/spotify.png",
+    "description": "This is a project made to learn the latest languages(React) by building an app.",
+    "skills": ["Html" ,"Css", "Js"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
